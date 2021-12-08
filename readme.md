@@ -12,6 +12,6 @@
 
 <del>马恩牌</del>
 
-本仓库的用途是基于 Verso Books 的英文原版，在将这本书翻译为简体中文的过程中，暂时保存录入的英文原文和完成部分的文稿。
+本仓库的用途是，在基于 Verso Books 的英文原版，将这本书翻译为简体中文的过程中，暂时保存英文原文和完成部分的文稿。
 
 Original text published in this repository is for study purposes only and is fair use. ©&nbsp;Lizzie O'Shea, Verso, 2019.
