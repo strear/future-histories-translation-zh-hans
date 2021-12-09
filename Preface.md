@@ -60,9 +60,8 @@ At this moment, when so much hangs in the balance, when the world is contending 
 
 We can reclaim the possibility of a different future by using history as our guide. In the following chapters, I argue that social movements and thinkers from the past can help us better understand the problems presented by the digital age. Far from being novel concerns, technological questions we are confronting today often have a much longer history- one that predates the Internet, the web, and the computer itself. My hope is that it will embolden you, my generous and thoughtful readers, to take up the challenge of using digital technology as a tool to take back power, to allow the web to be a place of human connection and flourishing.
 
-<*p.xx*>
-
-There is a crack in everything, Leonard Cohen liked to remind us, and that is how the light gets in. The last four years have shed light on the problems created by the digital revolution. Our job is to use that light to navigate towards a more democratic digital tomorrow.
+<*p.xx*> There is a crack in everything, Leonard Cohen liked to remind us, and that is how the light gets in. The last four years have shed light on the problems created by the digital revolution. Our job is to use that light to navigate towards a more democratic digital tomorrow.
 
 *Lizzie O'Shea*
+
 *Melbourne, 2021*
