@@ -10,8 +10,14 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - name: publish
+      - name: make html
         uses: docker://pandoc/core:2.9
         with:
           entrypoint: /bin/sh
           args: -c "apk --no-cache add make; make"
+
+      - name: deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
