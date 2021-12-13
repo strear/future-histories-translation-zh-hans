@@ -14,4 +14,4 @@ jobs:
         uses: docker://pandoc/core:2.9
         with:
           entrypoint: /bin/sh
-          args: -c "make"
+          args: -c "apk --no-cache add make; make"
