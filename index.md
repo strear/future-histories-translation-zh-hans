@@ -2,20 +2,20 @@
 
 [自述文件](readme.md)
 
-## 原文
-
-* [Acknowledgment of Country](Acknowledgment_of_Country.md)
-* [Chapter1](Chapter1.md)
-* [Chapter2](Chapter2.md)
-* [Chapter3](Chapter3.md)
-* [Chapter4](Chapter4.md)
-* [Chapter6](Chapter6.md)
-* [Chapter8](Chapter8.md)
-* [Chapter10](Chapter10.md)
-* [Chapter11](Chapter11.md)
-
 ## 译文
 
 * [首页](首页.md)
-* [第2章](第2章.md)
-* [第8章](第8章.md)
+* [第 2 章](第2章.md)
+* [第 8 章](第8章.md)
+
+## 原文
+
+* [Acknowledgment of Country](Acknowledgment_of_Country.md)
+* [Chapter 1](Chapter1.md)
+* [Chapter 2](Chapter2.md)
+* [Chapter 3](Chapter3.md)
+* [Chapter 4](Chapter4.md)
+* [Chapter 6](Chapter6.md)
+* [Chapter 8](Chapter8.md)
+* [Chapter 10](Chapter10.md)
+* [Chapter 11](Chapter11.md)
