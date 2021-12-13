@@ -1,5 +1,7 @@
 # 《未来历史》中文翻译
 
+[在 GitHub Pages 上查看本页 >>](https://strear.github.io/future-histories-translation-zh-hans/)
+
 ![封面](https://images-na.ssl-images-amazon.com/images/I/41MTxnwZ9zL._SX324_BO1,204,203,200_.jpg)
 
 《未来历史：关于数字技术，阿达·洛芙莱斯、托马斯·潘恩和巴黎公社可以教给我们什么》(*Future Histories: What Ada Lovelace, Tom Paine, and the Paris Commune Can Teach Us About Digital Technology*) 是 Lizzie O'Shea 所作，2019 年 Verso 出版社出版的一部工程技术史和政治著作。
