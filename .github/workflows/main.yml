@@ -1,0 +1,15 @@
+name: publish
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: docker://pandoc/core:2.16.2
+      
+      - name: remake
+        run: make
