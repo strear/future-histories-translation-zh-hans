@@ -11,7 +11,7 @@ docs: $(objects)
 
 docs/%.html: %.md
 	$(PANDOC) -f markdown -s $^ -t html \
-	          -M pagetitle=$(basename $^) --lua-filter=docs/links-to-html.lua \
+	          -M pagetitle=$^ --lua-filter=docs/links-to-html.lua \
 	          -V linestretch=1.8 -o $@
 
 define _prep_script
