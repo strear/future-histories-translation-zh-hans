@@ -9,7 +9,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: docker://pandoc/core:2.16.2
-      
       - name: remake
-        run: make
+        run: |
+          docker run -v $(pwd):/data -w /data pandoc/core:2.9 make
