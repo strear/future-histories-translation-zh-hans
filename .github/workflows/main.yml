@@ -9,6 +9,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: remake
-        run: |
-          docker run -v $(pwd):/data -w /data pandoc/core:2.9 make
+      - uses: actions/checkout@v2
+      - name: publish
+        uses: docker://pandoc/latex:2.9
+        with:
+          entrypoint: /bin/make
