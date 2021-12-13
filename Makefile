@@ -1,12 +1,12 @@
-.DEFAULT_GOAL := doc
+.DEFAULT_GOAL := docs
 # MAKEFLAGS += -j8
 
 sources := $(wildcard *.md)
-objects := $(patsubst %.md,doc/%.html,$(subst $(source),$(output),$(sources)))
+objects := $(patsubst %.md,docs/%.html,$(subst $(source),$(output),$(sources)))
 
-doc: $(objects)
+docs: $(objects)
 
-doc/%.html: %.md
+docs/%.html: %.md
 	pandoc -f markdown -s $^ -t html \
-		   -M pagetitle=$(basename $^) --lua-filter=doc/links-to-html.lua \
+		   -M pagetitle=$(basename $^) --lua-filter=docs/links-to-html.lua \
 		   -o $@
