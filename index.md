@@ -16,6 +16,7 @@
 * [Chapter 2](Chapter2.md)
 * [Chapter 3](Chapter3.md)
 * [Chapter 4](Chapter4.md)
+* [Chapter 5](Chapter5.md)
 * [Chapter 6](Chapter6.md)
 * [Chapter 8](Chapter8.md)
 * [Chapter 10](Chapter10.md)
