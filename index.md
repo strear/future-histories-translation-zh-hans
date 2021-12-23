@@ -1,5 +1,4 @@
 # 《数字时代的阿达、潘恩和巴黎公社》
-# *Digital future of Ada, Tom and the Paris Commune*
 
 [自述文件 / Readme](readme.md)
 
