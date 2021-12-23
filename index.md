@@ -1,15 +1,16 @@
 # 《数字时代的阿达、潘恩和巴黎公社》
+# *Digital future of Ada, Tom and the Paris Commune*
 
-[自述文件](readme.md)
+[自述文件 / Readme](readme.md)
 
-## 译文
+## 译文 / Translation
 
 * [首页](首页.md)
 * [第 2 章](第2章.md)
 * [第 6 章](第6章.md)
 * [第 8 章](第8章.md)
 
-## 原文
+## 原文 / Original text
 
 * [Acknowledgment of Country](Acknowledgment_of_Country.md)
 * [Chapter 1](Chapter1.md)
