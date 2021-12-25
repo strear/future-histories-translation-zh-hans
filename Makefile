@@ -10,8 +10,9 @@ html: prep docs
 docs: $(objects)
 
 docs/%.html: %.md
-	$(PANDOC) -f markdown -s $^ -t html \
+	$(PANDOC) -f markdown -s "$^" -t html \
 	          -M pagetitle=$^ --lua-filter=docs/links-to-html.lua \
+	          -V lang=$$(case "$^" in [A-Z]*) echo "en-US";; *) echo "zh-CN";; esac) \
 	          -V linestretch=1.8 -o $@
 
 define _prep_script
