@@ -4,7 +4,7 @@ Chapter 5:
 
 ## The Tech Billionaires Have Nothing on the Paris Commune
 
-<*p.95*> Julian West lay down to sleep in his Boston home on the evening of May 31, 1887. He customarily slept in a sealed chamber, a soundproof cellar below his house, in an effort to address his chronic insomnia. To assist him in falling asleep. West also hired the services of an alternative therapist. "I called in Dr. Pillsbury, [who] called himself a 'Professor of Animal Magnetism,'" explained West. "I don't think he knew anything about medicine, but he was certainly a remarkable mesmerist."
+<*p.95*> Julian West lay down to sleep in his Boston home on the evening of May 31, 1887. He customarily slept in a sealed chamber, a soundproof cellar below his house, in an effort to address his chronic insomnia. To assist him in falling asleep, West also hired the services of an alternative therapist. "I called in Dr. Pillsbury, [who] called himself a 'Professor of Animal Magnetism,'" explained West. "I don't think he knew anything about medicine, but he was certainly a remarkable mesmerist."
 
 He was indeed. As a result of a fire that destroyed West's house that night, and a particularly profound form of mesmerizing animal magnetism, the insomniac awoke on the afternoon of September 10, 2000---113 years later. He was discovered by the new owner of his house while excavating the back garden, prior to building a subterranean laboratory. The new owner explained to West that he was now in what had been the distant future.
 
